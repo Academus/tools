@@ -19,8 +19,6 @@ html, body {
   justify-content: center;
   align-content: center;
   flex-direction: column;
-  padding: 20px;
-  overflow: auto;
 }
 
 .header-text {
@@ -33,6 +31,8 @@ html, body {
   max-width: 1000px;
   margin: 0 auto;
   flex-wrap: wrap;
+  overflow: auto;
+  padding: 20px;
 }
 
 .tools .tool {
