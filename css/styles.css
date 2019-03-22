@@ -32,7 +32,6 @@ html, body {
   margin: 0 auto;
   flex-wrap: wrap;
   overflow: auto;
-  padding: 20px;
 }
 
 .tools .tool {
